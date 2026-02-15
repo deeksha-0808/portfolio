@@ -3,7 +3,7 @@
 A personal portfolio website built with React & Vite.
 
 ##  Live Demo
-portfolio-dz20n0gfj-deeksha-0808s-projects.vercel.app
+https://portfolio-pied-zeta-45.vercel.app/
 
 ##  Sections
 - Home, Education, Experience, Achievements
